@@ -1,4 +1,4 @@
 {
-  "baseUrl": "https://application-evaughan00.cloud.okteto.net",
+  "baseUrl": "https://apigateway-evaughan00.cloud.okteto.net",
   "JWT": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImp0aSI6ImQ2YzNkNGU1LTM2ODMtNDBmMS1iMGQyLTI5YzA2NTZmNjIzOCIsImlhdCI6IjEyLzE4LzIwMjAgMjI6NTY6NDMiLCJyb2xlcyI6InVzZXIiLCJuYmYiOjE2MDgzMzIyMDMsImV4cCI6MTYwODQxODYwMywiaXNzIjoiaHR0cDovL2dpdGh1Yi5jb20vZXZhdWdoYW4wMCIsImF1ZCI6Imh0dHA6Ly9hcGlnYXRld2F5In0.H0kAQmp0vJ4j9CyOlCZzhuBbJtedIhzXhYiSIQerir0"
 }
